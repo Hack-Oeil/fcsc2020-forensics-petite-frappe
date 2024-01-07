@@ -1,7 +1,7 @@
 # FCSC 2020 Petite frappe
 
 Cette épreuve est découpée en trois parties :
-- [READM_1_3.md](README_1_3.md)
+- [README_1_3.md](README_1_3.md)
 - [README_2_3.md](README_2_3.md)
 - [README_3_3.md](README_3_3.md)
 
